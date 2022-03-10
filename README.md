@@ -1,4 +1,8 @@
-# Install
+# Installation
+
+Create a folder to hold the project locally.
+
+Then execute the following:
 
 ```
 
@@ -14,7 +18,7 @@ yarn install
 
 ```
 
-# Start
+# Run the application
 
 ```
 
